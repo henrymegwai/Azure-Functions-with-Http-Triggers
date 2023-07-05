@@ -1,0 +1,17 @@
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\bin\Debug\net7.0\Airline.Ticket.Processing.exe
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\bin\Debug\net7.0\Airline.Ticket.Processing.deps.json
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\bin\Debug\net7.0\Airline.Ticket.Processing.runtimeconfig.json
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\bin\Debug\net7.0\Airline.Ticket.Processing.dll
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\bin\Debug\net7.0\Airline.Ticket.Processing.pdb
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\obj\Debug\net7.0\Airline.Ticket.Processing.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\obj\Debug\net7.0\Airline.Ticket.Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\obj\Debug\net7.0\Airline.Ticket.Processing.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\obj\Debug\net7.0\Airline.Ticket.Processing.AssemblyInfo.cs
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\obj\Debug\net7.0\Airline.Ticket.Processing.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\obj\Debug\net7.0\Airline.Ticket.Processing.dll
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\obj\Debug\net7.0\refint\Airline.Ticket.Processing.dll
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\obj\Debug\net7.0\Airline.Ticket.Processing.pdb
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\obj\Debug\net7.0\Airline.Ticket.Processing.genruntimeconfig.cache
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\obj\Debug\net7.0\ref\Airline.Ticket.Processing.dll
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Ticket.Processing\obj\Debug\net7.0\Airline.Ticket.Processing.csproj.CopyComplete

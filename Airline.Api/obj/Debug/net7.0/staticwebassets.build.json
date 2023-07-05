@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kElpnePY6YUyls3TeVZzEDg5ugBMh3TxUXQteUS7vcE=",
+  "Source": "Airline.Api",
+  "BasePath": "_content/Airline.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

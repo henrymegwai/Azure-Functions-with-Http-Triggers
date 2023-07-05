@@ -1,0 +1,12 @@
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Services\bin\Debug\net7.0\Airline.Services.deps.json
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Services\bin\Debug\net7.0\Airline.Services.dll
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Services\bin\Debug\net7.0\Airline.Services.pdb
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Services\obj\Debug\net7.0\Airline.Services.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Services\obj\Debug\net7.0\Airline.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Services\obj\Debug\net7.0\Airline.Services.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Services\obj\Debug\net7.0\Airline.Services.AssemblyInfo.cs
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Services\obj\Debug\net7.0\Airline.Services.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Services\obj\Debug\net7.0\Airline.Services.dll
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Services\obj\Debug\net7.0\refint\Airline.Services.dll
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Services\obj\Debug\net7.0\Airline.Services.pdb
+C:\Users\henry\source\repos\Airline.Messaging\Airline.Services\obj\Debug\net7.0\ref\Airline.Services.dll
