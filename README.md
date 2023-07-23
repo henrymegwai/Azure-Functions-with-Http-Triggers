@@ -1,2 +1,2 @@
-# Messaging With RabbitMq
-Airline Booking with RabbitMq Pub/Sub Messaging Functionality
+# Azure Functions with Queues
+
